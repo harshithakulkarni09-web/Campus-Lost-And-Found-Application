@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": "3774b5d3-f212-4687-a03c-c617c284b513",
+      "name": "bag",
+      "category": "",
+      "description": "",
+      "location": "Sports Ground",
+      "status": "lost",
+      "image": "",
+      "userName": "har",
+      "userUSN": "0990",
+      "userContact": "839",
+      "createdAt": "2026-05-07T04:33:26.100Z",
+      "updatedAt": "2026-05-07T04:33:43.514Z"
+    },
+    {
+      "id": "6913305a-02cc-465a-bcb5-22bbfcd93b56",
+      "name": "bag",
+      "category": "",
+      "description": "",
+      "location": "Sports Ground",
+      "status": "found",
+      "image": "",
+      "userName": "mal",
+      "userUSN": "990",
+      "userContact": "789",
+      "createdAt": "2026-05-07T04:34:52.948Z"
+    },
+    {
+      "id": "f53b6d5d-04be-48cb-ac96-817d25981529",
+      "name": "card",
+      "category": "Accessories",
+      "description": "",
+      "location": "G1",
+      "status": "lost",
+      "image": "",
+      "userName": "Atan",
+      "userUSN": "2384SKFHF",
+      "userContact": "903240929",
+      "createdAt": "2026-05-07T04:37:13.058Z"
+    },
+    {
+      "id": "042c9fad-680d-42df-b86e-8c8e375472c4",
+      "name": "calculator",
+      "category": "Electronics",
+      "description": "black color casio",
+      "location": "umbrella",
+      "status": "found",
+      "image": "/uploads/d69c69ac-9f75-4108-8655-183dc972dc38.jfif",
+      "userName": "Harshitha Kulkarni",
+      "userUSN": "1NH24CS085",
+      "userContact": "harshithakulkarni09@gmail.com",
+      "createdAt": "2026-06-03T13:27:54.981Z"
+    },
+    {
+      "id": "a74aee27-83c3-4520-8ddf-30ac64ff5bbe",
+      "name": "id card",
+      "category": "Other",
+      "description": "2nd year 4th sem id red color",
+      "location": "Gate 1",
+      "status": "lost",
+      "image": "/uploads/e39ee086-8b9a-47be-a381-7f7376d8d7a4.jpg",
+      "userName": "malavika",
+      "userUSN": "1NH24CS121",
+      "userContact": "",
+      "createdAt": "2026-06-03T13:33:25.259Z"
+    },
+    {
+      "id": "c7162140-7580-4535-b023-623457a9ed4b",
+      "name": "earpods",
+      "category": "Electronics",
+      "description": "black",
+      "location": "Open Stage",
+      "status": "lost",
+      "image": "/uploads/ba6226ad-b03c-481c-86b7-4fde2f10479a.webp",
+      "userName": "malvika",
+      "userUSN": "1NH24CS121",
+      "userContact": "MAL@gmail.com",
+      "createdAt": "2026-06-04T06:58:40.374Z"
+    }
+  ]
+}
